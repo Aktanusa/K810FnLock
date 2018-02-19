@@ -63,3 +63,4 @@
 #*.RTF   diff=astextplain
 
 HIDAPI/* linguist-vendored
+K810FnLock/hidapi.h linguist-vendored
