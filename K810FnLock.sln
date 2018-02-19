@@ -12,6 +12,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HIDAPI", "HIDAPI\HIDAPI.vcx
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{5376B5B9-516C-4313-BE71-102D7D727FEE}"
 	ProjectSection(SolutionItems) = preProject
+		Fn Lock Off.bat = Fn Lock Off.bat
+		Fn Lock On.bat = Fn Lock On.bat
 		README.md = README.md
 	EndProjectSection
 EndProject
