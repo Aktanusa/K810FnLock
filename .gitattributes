@@ -62,4 +62,4 @@
 #*.rtf   diff=astextplain
 #*.RTF   diff=astextplain
 
-hidapi/* linguist-vendored
+**/HIDAPI/** linguist-vendored
